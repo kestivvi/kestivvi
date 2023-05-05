@@ -3,7 +3,7 @@
 I'm a computer science student at SGGW in Warsaw, Poland 🇵🇱. I am passionate about building modern and scalable full-stack applications with cutting-edge technologies like Typescript and GraphQL.
 
 ## 🔭 Currently working on
-- Developing an android game as part of Software Engineering subject at SGGW in cooperation with other students.
+- Developing an android game as part of Software Engineering subject at SGGW in cooperation with other students being a group leader.
 
 ## 🌱 I'm currently learning
 - Building websocket servers
