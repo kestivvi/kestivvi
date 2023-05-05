@@ -1,6 +1,6 @@
 # Hi there, I'm Krzysztof 👋
 
-I'm a computer science student at SGGW in Warsaw, Poland 🇵🇱. I am passionate about building modern and scalable full-stack applications with cutting-edge technologies like Typescript and GraphQL.
+I'm a computer science student at SGGW in Warsaw, Poland. I am passionate about building modern and scalable full-stack applications with cutting-edge technologies like Typescript and GraphQL.
 
 ## 🔭 Currently working on
 - Developing an android game as part of Software Engineering subject at SGGW in cooperation with other students being a group leader.
@@ -55,4 +55,4 @@ Thanks for visiting my profile! Feel free to reach out to me anytime to discuss 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-*Possibly more, but I haven't look for more budges 🤣*
+*And much more, but I haven't been spending that much time on budges 🤣*
