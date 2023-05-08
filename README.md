@@ -1,9 +1,9 @@
 # Hi there, I'm Krzysztof 👋
 
-I'm a computer science student at SGGW in Warsaw, Poland. I am passionate about building modern and scalable full-stack applications with cutting-edge technologies like Typescript and GraphQL.
+I'm a computer science student at SGGW in Warsaw, Poland. I am passionate about building modern and scalable full-stack applications with cutting-edge technologies like Rust, Python, Javascripts frameworks, Typescript and GraphQL.
 
 ## 🔭 Currently working on
-- An android game as part of Software Engineering subject at SGGW in cooperation with other students. My role is a group leader.
+- An android game as part of Software Engineering subject at SGGW in cooperation with other students. As a group leader I'm designing an architecture of the app, making tasks (issues), controlling, monitoring the progress of work, motivating students to get their job done and reviewing code written by them.
 
 ## 🌱 I'm currently learning
 - Building websocket servers
@@ -29,6 +29,7 @@ Thanks for visiting my profile! Feel free to reach out to me anytime to discuss 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
