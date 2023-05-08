@@ -6,6 +6,7 @@ I'm a computer science student at SGGW in Warsaw, Poland. I am passionate about 
 - An android game as part of Software Engineering subject at SGGW in cooperation with other students. As a group leader I'm designing an architecture of the app, making tasks (issues), controlling, monitoring the progress of work, motivating students to get their job done and reviewing code written by them.
 
 ## 🌱 I'm currently learning
+- Building frontend apps with React
 - Building websocket servers
 - Android development in Android Studio with Java
 
