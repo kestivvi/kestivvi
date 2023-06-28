@@ -3,16 +3,17 @@
 I'm a computer science student at SGGW in Warsaw, Poland. I am passionate about building modern and scalable full-stack applications with cutting-edge technologies like Rust, Python, Javascripts frameworks, Typescript and GraphQL.
 
 ## 🔭 Currently working on
-- An android game as part of Software Engineering subject at SGGW in cooperation with other students. As a group leader I'm designing an architecture of the app, making tasks (issues), controlling, monitoring the progress of work, motivating students to get their job done and reviewing code written by them.
+- Simple web app that analyzes uploaded by user minecraft mod jar file
 
 ## 🌱 I'm currently learning
-- Building frontend apps with React
-- Building websocket servers
-- Android development in Android Studio with Java
+- Building frontend apps with React and Next JS 13
 
 ## 🏆 Achievements
 - Awarded the rector's scholarship for academic excellence in my first year of study.
 - Ranked as the top student in the first year of Computer Science at SGGW in Warsaw.
+
+## 🎬 Finished Bigger Projects
+- An android game as part of Software Engineering subject at SGGW-WULS in cooperation with other students. As a group leader I was designing an architecture of the app, making tasks (issues), controlling, monitoring the progress of work, motivating students to get their job done and reviewing code written by them. I've learned a bunch of stuff about websockets servers and clients.
 
 Thanks for visiting my profile! Feel free to reach out to me anytime to discuss exciting opportunities or just to say hello!
 
