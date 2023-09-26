@@ -3,9 +3,6 @@
 I'm a computer science student at SGGW in Warsaw, Poland, and I also work as a frontend developer at T-Mobile Polska S.A. I am passionate about building modern and scalable full-stack applications with cutting-edge technologies like Rust, Python, JavaScript frameworks, TypeScript, and GraphQL.
 
 ## 🔭 Currently working on
-- Simple web app that analyzes uploaded by the user Minecraft mod jar file
-
-## 🌱 I'm currently learning
 - Mastering building frontend apps with React, Next.js 13, MUI, OpenAPI, and Zod
 
 ## 🏆 Achievements
