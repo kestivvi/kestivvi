@@ -3,7 +3,7 @@
 I'm a computer science student at SGGW in Warsaw, Poland, and I also work as a frontend developer at T-Mobile Polska S.A. I am passionate about building modern and scalable full-stack applications with cutting-edge technologies like Rust, Python, JavaScript frameworks, TypeScript, and GraphQL.
 
 ## 🔭 Currently working on
-- A Chrome web extension that records the time spent watching movies on YouTube.
+- A Chrome web extension that tracks and records the time spent watching movies on YouTube, developed as part of my thesis project.
 
 ## 🏆 Achievements
 - Awarded the rector's scholarship for academic excellence in my first year of study.
@@ -12,6 +12,7 @@ I'm a computer science student at SGGW in Warsaw, Poland, and I also work as a f
 ## 🎬 Finished Bigger Projects
 - An Android game as part of the Software Engineering subject at SGGW-WULS in cooperation with other students. As a group leader, I was designing an architecture of the app, making tasks (issues), controlling, monitoring the progress of work, motivating students to get their job done, and reviewing code written by them. I've learned a bunch of stuff about websockets servers and clients.
 - Best Offer Finder: A full-stack web app that notifies users about new car offers on the Otomoto platform. Developed as part of a university group project, I served as the manager of an 11-person team and also led the frontend development.
+- HackArena 2.0: Hosted by KN Init at SGGW-WULS, this hackathon challenged participants to develop AI bots to compete in a custom-designed multiplayer game.
 
 Thanks for visiting my profile! Feel free to reach out to me anytime to discuss exciting opportunities or just to say hello!
 
